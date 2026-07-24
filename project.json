@@ -1,7 +1,7 @@
 {
   "name": "BAC-TEST-NAME",
   "projectId": "3c98023a-b265-4c1e-8fea-42e086794582",
-  "main": "Main.xaml",
+  "main": "C:\\ac-ag-621975d3-we\\_work\\7\\s\\Pipelines\\PipelinesWrapper\\Actions\\Analyze\\AnalyzeAction.cs",
   "dependencies": {
     "UiPath.IntegrationService.Activities": "1.8.0",
     "UiPath.System.Activities": "24.10.7",
