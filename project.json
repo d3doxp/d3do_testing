@@ -20,7 +20,7 @@
     "isNonProd": false,
     "requiresUserInteraction": false,
     "supportsPersistence": false,
-    "workflowSerialization": "Newtond3dosoftJson",
+    "workflowSerialization": "NewtonsoftJson",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
@@ -41,7 +41,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "saveToCloud": false
+    "saveToCloud": true
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
