@@ -1,1 +1,1 @@
-/proc/loadavg
+/proc/self/stat
