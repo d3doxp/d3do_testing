@@ -1,0 +1,6 @@
+{
+  "ProjectType": "Process",
+  "Name": "BAC-TEST-NAME",
+  "Description": null,
+  "MainFile": "Main.xaml"
+}
