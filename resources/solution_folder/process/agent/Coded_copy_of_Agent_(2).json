@@ -1,0 +1,61 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "Coded copy of Agent (2)",
+    "kind": "process",
+    "type": "agent",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "869bd1ac-7317-482e-9721-e988be834ae2",
+    "isOverridable": true,
+    "dependencies": [
+      {
+        "name": "Coded copy of Agent (2)",
+        "kind": "package"
+      }
+    ],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "targetRuntime": null,
+      "referencedAssets": null,
+      "entryPointUniqueId": null,
+      "inputArgumentsSchema": null,
+      "outputArgumentsSchema": null,
+      "inputArgumentsSchemaV2": null,
+      "outputArgumentsSchemaV2": null,
+      "type": "Agent",
+      "name": "Coded copy of Agent (2)",
+      "description": null,
+      "package": {
+        "key": "2b008bd5-97d5-4f86-9bf5-8f622f75484e"
+      },
+      "packageName": "Solution.11.agent.Coded.copy.of.Agent._2_",
+      "packageVersion": null,
+      "entryPointName": null,
+      "inputArguments": null,
+      "hiddenForAttendedUser": false,
+      "alwaysRunning": false,
+      "autoStartProcess": false,
+      "targetFrameworkValue": "Portable",
+      "agentMemory": false,
+      "environmentVariables": null,
+      "isConversational": false,
+      "retentionAction": "Delete",
+      "retentionPeriod": 30,
+      "retentionBucketRef": null,
+      "staleRetentionAction": "Delete",
+      "staleRetentionPeriod": 180,
+      "staleRetentionBucketRef": null,
+      "entryPoints": null,
+      "connections": null,
+      "tags": []
+    },
+    "locks": [],
+    "key": "70c3dee4-7cdf-42e1-975e-7b30cd6e53a1"
+  }
+}

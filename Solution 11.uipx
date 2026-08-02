@@ -1,0 +1,23 @@
+{
+  "DocVersion": "1.0.0",
+  "StudioMinVersion": "2025.04.0",
+  "SolutionId": "cb36a819-fb27-4d61-2ed8-08dedc1767f5",
+  "Projects": [
+    {
+      "Type": "Agent",
+      "ProjectRelativePath": "Coded copy of Agent (2)/project.uiproj",
+      "Id": "869bd1ac-7317-482e-9721-e988be834ae2"
+    },
+    {
+      "Type": "Agent",
+      "ProjectRelativePath": "Agent/project.uiproj",
+      "Id": "61eadc3f-bb0b-4f1e-8a03-4e89b63b7d07"
+    },
+    {
+      "Type": "Agent",
+      "ProjectRelativePath": "Coded copy of Agent/project.uiproj",
+      "Id": "8fae3c30-3075-4017-a954-650259c0af0b"
+    }
+  ],
+  "AutomationHubIdeaUrl": null
+}

@@ -1,0 +1,26 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "Coded copy of Agent (2)",
+    "kind": "package",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "869bd1ac-7317-482e-9721-e988be834ae2",
+    "isOverridable": true,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "fileName": null,
+      "fileReference": null,
+      "name": "Coded copy of Agent (2)",
+      "description": null
+    },
+    "locks": [],
+    "key": "2b008bd5-97d5-4f86-9bf5-8f622f75484e"
+  }
+}
