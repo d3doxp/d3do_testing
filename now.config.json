@@ -1,0 +1,6 @@
+{
+  "scope": "x_d3doxp_test",
+  "scopeId": "0c4f09fc2fb70b503fada8aa6fa4e3de",
+  "name": "d3do testing app",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
